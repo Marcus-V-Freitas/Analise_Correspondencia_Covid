@@ -1,4 +1,4 @@
-#Analise_Correspondencia_Covid
+# Analise_Correspondencia_Covid
 
 Pequeno exemplo feito em Python, de uma Anacor (Análise de Correspondência Simples) completa:
 
